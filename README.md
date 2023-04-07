@@ -7,4 +7,3 @@
 carsonkellydev/carsonkellydev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Facetune_06-04-2023-20-05-57](https://user-images.githubusercontent.com/107229045/230524067-14d980dd-d06b-4bc6-ac9e-606fca9025f0.jpg)
