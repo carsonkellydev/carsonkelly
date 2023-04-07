@@ -3,7 +3,6 @@
 - 🌱 You can contact me via the phone number & email listed on my resume. Let's connect! 
 - 🌱 If you're talking code, you're speaking my language!
 - 
--
 <!---
 carsonkellydev/carsonkellydev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
